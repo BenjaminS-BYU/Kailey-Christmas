@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Card of the Day</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="container">
+    <h1>Kailey's Card of the Day</h1>
+    <p>This is a simple website built for you to give you a magical item daily to help you throughout the day, you can choose a random card, or the card of the day.</p>
+
+    <div class="controls">
+      <label for="categorySelect">Category</label>
+      <select id="categorySelect">
+        <option value="All">All</option>
+        <option value="Taylor Swift">Taylor Swift</option>
+        <option value="DnD">DnD</option>
+        <option value="Hozier">Hozier</option>
+        <option value="Kahan">Noah Kahan</option>
+        <option value="Cozy Games">Cozy Games</option>
+        <option value="Axolotls">Axolotls</option>
+      </select>
+
+      <button id="todayBtn" class="btn">Show Today's Card</button>
+      <button id="randomBtn" class="btn secondary">Random Card</button>
+    </div>
+
+    <div id="cardContainer" class="card-area" aria-live="polite"></div>
+
+    <footer class="meta">
+      <div id="metaText"></div>
+    </footer>
+  </main>
+
+  <script src="script.js" defer></script>
+</body>
+</html>
