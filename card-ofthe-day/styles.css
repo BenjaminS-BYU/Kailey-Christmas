@@ -12,7 +12,7 @@
 }
 
 *{box-sizing:border-box}
-html,body{height:100%;margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
+html,body{min-width: 350px;height:100%;margin:0;font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;}
 body{background:var(--bg);color:var(--text);display:flex;align-items:flex-start;justify-content:center;padding:30px;}
 
 .container{width:100%;max-width:900px}
@@ -69,13 +69,18 @@ select#categorySelect{padding:8px;border-radius:8px;border:1px solid #d7d9e3;bac
 .card-title{font-size:18px;margin:0 0 6px 0;font-weight:700}
 .card-meta{display:flex;gap:8px;align-items:center;margin-bottom:8px}
 .badge{
+  display: flex;
+  justify-content: center;
+  align-self: center;
+  align-items: center;
+  align-self: center;
   padding:6px 8px;border-radius:999px;font-size:12px;background:rgba(0,0,0,0.04);
   color:var(--muted);font-weight:600;
 }
 .card-desc{font-size:14px;color:#333;margin:0}
 .card-stats{font-size:13px;color:var(--muted);margin-top:10px}
 
-/* Rarity borders (Option 2 colors) */
+/* Rarity borders */
 .rarity-common{ border-color: var(--rarity-common) }
 .rarity-rare{ border-color: var(--rarity-rare) }
 .rarity-epic{ border-color: var(--rarity-epic) }

@@ -133,7 +133,7 @@ const items = [
 
     { name: "Toy Soldier", 
         icon: "🪖⚔️", 
-        description: "This toy nobodies soldier! And neither is the holder. Gain fearless independence and strength.", 
+        description: "This toy is Nobody's soldier! And neither is the holder. Gain fearless independence and strength.", 
         stats: "+4 Str, +3 Int", 
         category: "Hozier", 
         rarity: "Rare" },
