@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5fc;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+#newCardBtn {
+    padding: 10px 20px;
+    border: none;
+    background: #6b79ff;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 6px;
+}
+
+#newCardBtn:hover {
+    background: #5766e0;
+}
+
+#cardContainer {
+    margin: 25px auto;
+    max-width: 350px;
+}
+
+.card {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.15);
+}
+
+.card-icon {
+    font-size: 48px;
+    margin-bottom: 10px;
+}
+
+.card-title {
+    font-size: 22px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.card-desc {
+    font-size: 15px;
+}
