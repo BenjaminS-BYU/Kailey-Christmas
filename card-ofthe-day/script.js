@@ -501,7 +501,7 @@ function showTodaysCard() {
   }
   const idx = getDailyIndex(category);
   const card = pool[idx];
-  renderCard(card, `Card seeded by date (daily). Index ${idx+1} of ${pool.length}.`);
+  renderCard(card, `Daily Card — category: ${categorySelect.value}. Index ${idx+1} of ${pool.length}.`);
 }
 
 /* Show a random card from the selected category */
@@ -513,7 +513,7 @@ function showRandomCard() {
     return;
   }
   const idx = Math.floor(Math.random() * pool.length);
-  renderCard(pool[idx], `Random preview — index ${idx+1} of ${pool.length}.`);
+  renderCard(pool[idx], `Random Card — category: ${categorySelect.value}. Index ${idx+1} of ${pool.length}.`);
 }
 
 /* init */
