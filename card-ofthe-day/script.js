@@ -1,3 +1,12 @@
+// {
+//         name: "",
+//         icon: "",
+//         description: "",
+//         stats: "",
+//         category: "",
+//         rarity: ""
+//     }
+
 /* Card of the Day — items as objects */
 const items = [
     /* Swift */
@@ -24,21 +33,21 @@ const items = [
 
     { name: "Lover Era Lantern", 
         icon: "🏮💖", 
-        description: "Glows warmly whenever kindness is needed. Also improves dramatic lighting in emotional moments.", 
+        description: "Glows warmly whenever kindness is needed. Also improves dramatic lighting in emotional moments. Almost makes you a Mirrorball.", 
         stats: "+4 Wis, +5 Cha", 
         category: "Swift", 
         rarity: "Common" },
 
     { name: "Lyric Notebook of Insight", 
         icon: "📓🎵", 
-        description: "A notebook that captures stray thoughts before they vanish. Encourages deep emotional lore drops.", 
+        description: "A notebook that captures stray thoughts before they vanish. Encourages deep lore drops (This has 13 words in it btw).", 
         stats: "+5 Int, +3 Wis", 
         category: "Swift", 
         rarity: "Rare" },
 
     { name: "Swift's Stardust Boots", 
         icon: "👢✨", 
-        description: "Boots that let you step over nonsense without even noticing it. Great for family gatherings.", 
+        description: "Boots that let you step over Bull-crap. Great for family gatherings.", 
         stats: "+6 Dex, +2 Wis", 
         category: "Swift", 
         rarity: "Epic" },
@@ -52,7 +61,7 @@ const items = [
 
     { name: "Folklore Feathered Cape", 
         icon: "🪶🧣", 
-        description: "A cape sewn from stories and late-night tea. Wear it to make small decisions feel fated.", 
+        description: "A cape sewn from stories and late-night tea. Wear it to make small decisions feel as important as invisible string.", 
         stats: "+4 Cha, +3 Wis", 
         category: "Swift", 
         rarity: "Rare" },
@@ -71,7 +80,12 @@ const items = [
         category: "Swift", 
         rarity: "Legendary" },
 
-
+    { name: "Epic Drink from the Lakes", 
+        icon: "🎫🌟", 
+        description: "Poets die here, but you gain more wisdom and have the ability to write bangers today, so get to writing bish.", 
+        stats: "+10 Con, +3 Wis", 
+        category: "Swift", 
+        rarity: "Epic" },
 
 
 
@@ -89,7 +103,7 @@ const items = [
 
     { name: "Hozier's Forest Boots", 
         icon: "🥾🌲", 
-        description: "Boots woven from roots, moss, and pure ethereal vibes. Helps the wearer walk gracefully through emotional turmoil.", 
+        description: "Boots woven from roots, for years or for hours, with pure ethereal vibes. Helps the wearer walk gracefully through emotional turmoil.", 
         stats: "+5 Dex, +3 Wis", 
         category: "Hozier", 
         rarity: "Rare" },
@@ -98,38 +112,46 @@ const items = [
 
     { name: "Hozier's Candle of Longing", 
         icon: "🕯️🌙", 
-        description: "Burning it fills the room with poetic melancholy and incredible hair energy.", 
+        description: "Take this candle to light through the storm of life, with it, how could you fear any hurricane?", 
         stats: "+5 Wis, +3 Cha", 
         category: "Hozier", 
         rarity: "Rare" },
 
     { name: "Hozier's Rain Catcher", 
         icon: "🌧️🫗", 
-        description: "Collects ambient melancholy and repurposes it into creative focus.", 
+        description: "Catches sweet soft melodies into pure sensual melancholy.", 
         stats: "+5 Int, +2 Wis", 
         category: "Hozier", 
         rarity: "Rare" },
 
     { name: "Hozier's Echo Bottle", 
         icon: "🍶🎵", 
-        description: "Open to hear a single perfect note that becomes a motif for your week.", 
+        description: "Cry out into the night to hear back the forrest God's song, imbues the user with wisdom.", 
         stats: "+4 Wis, +3 Cha", 
         category: "Hozier", 
         rarity: "Epic" },
+
+    { name: "Toy Soldier", 
+        icon: "🪖⚔️", 
+        description: "This toy nobodies soldier! And neither is the holder. Gain fearless independence and strength.", 
+        stats: "+4 Str, +3 Int", 
+        category: "Hozier", 
+        rarity: "Rare" },
+
 
 
 
         // Noah Kahan
     { name: "Noah's Acoustic Amulet", 
         icon: "🎸🔗", 
-        description: "Strumming it heals emotional damage—yours or others'. Does not require actual musical talent.", 
-        stats: "+4 Cha, +4 Wis", 
+        description: "Sorry strumming this makes you remember your trauma... ", 
+        stats: "-4 Cha, -4 Wis", 
         category: "Kahan", 
-        rarity: "Epic" },
+        rarity: "Common" },
 
     { name: "Noah Kahan's Maple Mug", 
         icon: "🍁☕", 
-        description: "A mug filled with the essence of small towns and big feelings. Grants immunity to seasonal depression for 12 minutes.", 
+        description: "Drink this to wared off seasonal depression.. or just live in it.", 
         stats: "+6 Wis, +2 Cha", 
         category: "Kahan", 
         rarity: "Rare" },
@@ -165,7 +187,7 @@ const items = [
         category: "Cozy Games", 
         rarity: "Common" },
 
-    { name: "Enchanted ACNH Fishing Rod", 
+    { name: "Enchanted Fishing Rod", 
         icon: "🎣🍃", 
         description: "Allows you to catch good luck and emotional clarity. Works best at 5 p.m. on a Tuesday.", 
         stats: "+4 Dex, +4 Wis", 
@@ -181,21 +203,21 @@ const items = [
 
     { name: "Simoleon Wallet", 
         icon: "💼💚", 
-        description: "A wallet that never quite fills, but somehow always helps you get through the week.", 
-        stats: "+3 Wis, +5 Cha", 
+        description: "Rosebud, no kaching, no wait, Motherload, that'll do it right?? (When I asked you, you told me how to spell it so now its funny when I spell it wrong right??)", 
+        stats: "+3 Monne, +5 🤑", 
         category: "Cozy Games", 
         rarity: "Common" },
 
     { name: "Animal Crossing Tea Set", 
         icon: "🍵🍃", 
-        description: "Drinking from this set instantly reduces stress by a measurable amount. Also increases your interior-design instincts.", 
+        description: "Drink up all the tea and spend all your bells!", 
         stats: "+4 Wis, +4 Cha", 
         category: "Cozy Games", 
         rarity: "Common" },
 
     { name: "Sims Plumbob Ring", 
         icon: "💍♦️", 
-        description: "A ring that changes color based on your mood. Extremely helpful when people are being dense.", 
+        description: "Dis ring gives depwa some creativity aey makes depper husband even sexier.", 
         stats: "+5 Int, +3 Cha", 
         category: "Cozy Games", 
         rarity: "Rare" },
@@ -209,43 +231,51 @@ const items = [
 
     { name: "Animal Crossing Fruit Basket", 
         icon: "🍎🍊🍃", 
-        description: "Increases your productivity by 12% and your cuteness by 300%.", 
+        description: "Any who eat from this basket are saved from Nook's greed.", 
         stats: "+4 Con, +4 Cha", 
         category: "Cozy Games", 
         rarity: "Common" },
 
     { name: "Cozy Cottagecore Cloak", 
         icon: "🧥🌼", 
-        description: "A cloak woven from sunshine, tea steam, and soft playlists. Reduces stress on contact.", 
-        stats: "+5 Wis, +3 Con", 
+        description: "This cloak blesses the user with the feeling of sitting in a windowsill with the sunlight, their favorite book and apple cider to drink.", 
+        stats: "+5 Cozy, +3 Con", 
         category: "Cozy Games", 
         rarity: "Rare" },
 
     { name: "Campfire Guitar Pick", 
         icon: "🎸🔥", 
-        description: "Grants the confidence to sing badly and be loved for it.", 
+        description: "Allows the holder to be like their older brother playing a guitar around a campfire.", 
         stats: "+3 Cha, +2 Int", 
         category: "Cozy Games", 
-        rarity: "Common" },
+        rarity: "Rare" },
 
-    { name: "Patchwork Quilter's Needle", 
+    { name: "Sable's Needle", 
         icon: "🪡🧵", 
-        description: "Mends small regrets and the occasional sweater.", 
+        description: "Grants the user with impeccable sewing skills and makes them Able to take on the day.", 
         stats: "+3 Wis, +4 Int", 
         category: "Cozy Games", 
         rarity: "Common" },
 
-    { name: "Sootheleaf Terrarium", 
+    { name: "Crossing Terrarium", 
         icon: "🌿🔮", 
-        description: "A tiny world on your desk. Watching it grow calms decision fatigue.", 
-        stats: "+4 Wis, +3 Con", 
+        description: "Watching the villagers in this terrarium give the watcher much needed coziness and calmness.", 
+        stats: "+10 Cozy, +1 Con", 
         category: "Cozy Games", 
-        rarity: "Rare" },
+        rarity: "Legendary" },
 
     { name: "Pixel Lantern", 
         icon: "🕹️🏮", 
-        description: "A tiny lantern that glows like your favourite cozy game; reduces anxiety by 7%.", 
+        description: "Casts light into the darkest cave allowing the user to find diamonds without trouble.", 
         stats: "+3 Con, +4 Wis", 
+        category: "Cozy Games", 
+        rarity: "Common" },
+
+
+    { name: "Kitt's Halter", 
+        icon: "🦘🍃", 
+        description: "Grants this user with the educational prowess of a Loving and kind mother.", 
+        stats: "+3 Int, +4 Wis", 
         category: "Cozy Games", 
         rarity: "Common" },
 
@@ -344,7 +374,37 @@ const items = [
         description: "A soot-stained hymn to soft things. Singing it together heals awkwardness.", 
         stats: "+4 Cha, +2 Wis", 
         category: "Axolotls", 
-        rarity: "Rare" }
+        rarity: "Rare" },
+
+
+
+    // Kids
+    { name: "Ollie's Logic",
+        icon: "🤓☝️",
+        description: "Today you are bless with Ollie's Logical mind, you become smarter, but maybe not wiser...",
+        stats: "+7 Int, -1 Wis",
+        category: "Kids",
+        rarity: "Common"
+    },
+
+    { name: "Ava's Charisma",
+        icon: "👧",
+        description: "Ava is wild and excitable, if a bit too much sometimes 😂, take her charisma with you and be confident without fear!",
+        stats: "+7 Cha, -1 Int",
+        category: "Kids",
+        rarity: "Common"
+    },
+
+
+
+    // Ben
+    { name: "Ben's Butt",
+        icon: "🍑",
+        description: "Take my Butt with you to get a lil Horny and distracted... hehe🤭",
+        stats: "-3 Con, +5 Horny",
+        category: "Ben",
+        rarity: "Common"
+    }
 ];
 
 /* Rarity classes mapping */
