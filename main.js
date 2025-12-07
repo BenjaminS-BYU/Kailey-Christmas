@@ -97,7 +97,7 @@ const descriptions = [
 ];
 
 // Stats
-const status = [
+const stats = [
     "+5 Wis, +4 Con",
     "+6 Int, +3 Cha",
     "+7 Dex, +1 Cha",
