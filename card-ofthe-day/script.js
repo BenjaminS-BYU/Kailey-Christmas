@@ -75,7 +75,7 @@ const items = [
 
     { name: "Legendary Backstage Pass", 
         icon: "🎫🌟", 
-        description: "Grants one unforgettable small moment. Non-transferable, but shareable.", 
+        description: "If your in the mood, tell someone that you have this backstage pass and they will do whatever you desire (sexually obv).", 
         stats: "+6 Cha, +1 Con", 
         category: "Swift", 
         rarity: "Legendary" },
@@ -90,16 +90,13 @@ const items = [
 
 
     /* Hozier */
-    
-
     { name: "Hozier's Hair", 
         icon: "💇", 
-        description: "A lock of Hozier's hair that is imbued with power, lets the user cast spells more easily, use it to make your day more magical.", 
+        description: "A locket of Hozier's hair that is imbued with power, lets the user cast spells more easily, use it to make your day more magical.", 
         stats: "+7 Int, +1 Wis", 
         category: "Hozier", 
         rarity: "Legendary" },
 
-    
 
     { name: "Hozier's Forest Boots", 
         icon: "🥾🌲", 
@@ -108,7 +105,6 @@ const items = [
         category: "Hozier", 
         rarity: "Rare" },
 
-    
 
     { name: "Hozier's Candle of Longing", 
         icon: "🕯️🌙", 
