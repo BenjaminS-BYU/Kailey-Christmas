@@ -174,7 +174,7 @@ const items = [
 
     { name: "Potion of Ferocity", 
         icon: "😠", 
-        description: "Drink this potion to rage like a barbarian or a Mad Woman, whoever you are fighting deserve it.", 
+        description: "Drink this potion to rage like a barbarian or a Mad Woman, whoever you are fighting deserves it.", 
         stats: "+10 Str", 
         category: "Swift", 
         rarity: "Legendary" },
