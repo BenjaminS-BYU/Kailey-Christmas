@@ -75,7 +75,7 @@ const items = [
 
     { name: "Legendary Backstage Pass", 
         icon: "🎫🌟", 
-        description: "If your in the mood, tell someone that you have this backstage pass and they will do whatever you desire (sexually obv).", 
+        description: "If you're in the mood, tell someone that you have this backstage pass and they will do whatever you desire (sexually obv).", 
         stats: "+6 Cha, +1 Con", 
         category: "Swift", 
         rarity: "Legendary" },
