@@ -314,9 +314,9 @@ const items = [
     { name: "Garment of Heat", 
         icon: "🔥", 
         description: "Use this magical garment From a Warmer Climate to warm your thoughts and body when all feels cold and 'Uiscefhuarithe'", 
-        stats: "", 
+        stats: "+5 Con, +3 Wis", 
         category: "Hozier", 
-        rarity: "" },
+        rarity: "Rare" },
 
     { name: "Tablet of Language", 
         icon: "👅🗣️", 
