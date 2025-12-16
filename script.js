@@ -744,7 +744,135 @@ const items = [
         stats: "-3 Con, +5 Horny",
         category: "Ben",
         rarity: "Common"
-    }
+    },
+
+    { name: "Ben's Hug",
+        icon: "",
+        description: "Warmer than a thousand suns, Tighter than the largest snake. Love me for goodness sake.",
+        stats: "+10 Love",
+        category: "Ben",
+        rarity: "Legendary"
+    },
+
+    { name: "Ben's Giant Massive Dictionary",
+        icon: "🤗",
+        description: "Only smart people read from this Dict, Open it offend and suck up all the creamy knowledge within.",
+        stats: "+15 Int",
+        category: "Ben",
+        rarity: "Legendary"
+    },
+
+    { name: "Ben's Hairy Chest",
+        icon: "🪒",
+        description: "This hairy chest provides you with the intensity of a bear and charisma with flair!",
+        stats: "+5 Cha",
+        category: "Ben",
+        rarity: "Common"
+    },
+
+    { name: "Ben's Poetic Flare",
+        icon: "🧨📜",
+        description: "Could be wise, could be dumb, but either way you'll have some fun. Use this to cheaply get compliments for stuff you say. Works for me that way.",
+        stats: "+7 Cha, +3 Int",
+        category: "Ben",
+        rarity: "Rare"
+    },
+
+    { name: "Ben's Fart",
+        icon: "💨",
+        description: "Sorry dawg, this is just a bad one, but maybe it'll bring you luck?",
+        stats: "-2 Cha, +5 Luck",
+        category: "Ben",
+        rarity: "Common"
+    },
+
+    { name: "Ben's Cuddles",
+        icon: "❤️",
+        description: "Will these cuddles stay just cuddles? Guess you'll find out with a bruise on your butt. Use with caution.",
+        stats: "+10 Love, +5 Con",
+        category: "Ben",
+        rarity: "Epic"
+    },
+
+    { name: "Ben's Grip",
+        icon: "✊🏻",
+        description: "This grip holds tight around your neck, or hips and never lets go till you're satisfied.",
+        stats: "+5 Str, -5 Con",
+        category: "Ben",
+        rarity: "Common"
+    },
+
+    { name: "Ben's Love",
+        icon: "♡🫵🏻",
+        description: "A wonderful Item and cherished piece of legendary lore! With this love, nothing can stop you from achieving your dreams!",
+        stats: "+20 Love",
+        category: "Ben",
+        rarity: "Legendary"
+    },
+
+    { name: "Ben's Pen",
+        icon: "✍🏻",
+        description: "Hey i lost this, give it back pls. But also it makes you smarter... so I guess keep it.",
+        stats: "+10 Int, +5 Cha",
+        category: "Ben",
+        rarity: "Epic"
+    },
+
+    { name: "Ben's Voice",
+        icon: "🗣",
+        description: "Let it whisper sweet nothings to you when you can't see the good in yourself.",
+        stats: "+7 Cha, +3 Int",
+        category: "Ben",
+        rarity: "Epic"
+    },
+
+    { name: "Ben's Kiss",
+        icon: "😘",
+        description: "This item is so common it might as well be all over your body at this point.",
+        stats: "+15 Love, +5 Cha",
+        category: "Ben",
+        rarity: "Common"
+    },
+
+    { name: "Ben's Muskles",
+        icon: "💪",
+        description: "You strgth, ya?",
+        stats: "-2 Int, +10 Str",
+        category: "Ben",
+        rarity: "Rare"
+    },
+
+    { name: "Ben's Magical Dick",
+        icon: "🍆😩",
+        description: "Richard is a nice fellow who will carry sacks for you, he loves eggplants, you can have him today.",
+        stats: "-4 Str, +10 Sack Carrying",
+        category: "Ben",
+        rarity: "Epic"
+    },
+
+    { name: "Ben's Rod of Hardness",
+        icon: "🪄",
+        description: "",
+        stats: "+10 Str, +5 Con",
+        category: "Ben",
+        rarity: "Epic"
+    },
+
+    { name: "Ben's Shield of Protection",
+        icon: "🛡️",
+        description: "I'm just giving this away cuz I never use it anyways.",
+        stats: "+10 Con",
+        category: "Ben",
+        rarity: "Common"
+    },
+
+    { name: "Ben's Fiery Ring",
+        icon: "💍❤️‍🔥",
+        description: "Use this ring to set ablaze the fire in your heart. You've already lit mine so I'm good.",
+        stats: "+5 Cha, +5 Int",
+        category: "Ben",
+        rarity: "Rare"
+    },
 ];
 
 /* Rarity classes mapping */
