@@ -207,6 +207,169 @@ const items = [
         category: "Swift", 
         rarity: "Epic" },
 
+        /* Additional Swift Album Items */
+
+    /* Taylor Swift (Debut) */
+    { name: "Debut Acoustic Guitar",
+        icon: "🎸",
+        description: "Take this guitar to remind yourself that simplicity can take you far.",
+        stats: "+3 Cha, +2 Dex",
+        category: "Swift",
+        rarity: "Common" },
+
+    { name: "Hometown Boots",
+        icon: "👢",
+        description: "Remember where home is, stay close and know that your family is with you!",
+        stats: "+2 Con, +3 Wis",
+        category: "Swift",
+        rarity: "Common" },
+
+
+    /* Fearless */
+    { name: "Fearless Golden Armor",
+        icon: "✨🛡️",
+        description: "Stay fearless with this armor, mi amore.",
+        stats: "+5 Con, +2 Cha",
+        category: "Swift",
+        rarity: "Rare" },
+
+    { name: "White Horse Reins",
+        icon: "🐎",
+        description: "Ride em like a cowgirl, yeee-haw! If you fall off this horse, get back on and ride again.",
+        stats: "+4 Dex, +3 Wis",
+        category: "Swift",
+        rarity: "Rare" },
+
+
+    /* Speak Now */
+    { name: "Enchanted Ballroom Gloves",
+        icon: "🧤✨",
+        description: "I was enchanted to meet you, wear these gloves to remind yourself of the magic I felt that day.",
+        stats: "+5 Cha, +2 Dex",
+        category: "Swift",
+        rarity: "Epic" },
+
+    { name: "Dragon-proof Pen",
+        icon: "🖋️🐉",
+        description: "Witches and dragons be damned with this pen, write your own destiny.",
+        stats: "+4 Int, +3 Wis",
+        category: "Swift",
+        rarity: "Rare" },
+
+
+    /* Red */
+    { name: "Red Scarf of Memory",
+        icon: "🧣🔴",
+        description: "Stop leaving this at people's houses, It took me like 10 minutes to find it.",
+        stats: "+4 Wis, +4 Cha",
+        category: "Swift",
+        rarity: "Epic" },
+
+    { name: "Burning Matchbook",
+        icon: "🔥📕",
+        description: "You are like a red burning flame, my love. Don't forget your passion.",
+        stats: "+5 Str, +2 Int",
+        category: "Swift",
+        rarity: "Rare" },
+
+
+    /* 1989 */
+    { name: "Polaroid of Reinvention",
+        icon: "📸",
+        description: "In your wildest dreams, you can be anyone you want, don't be stuck to who you were, be whoever you want.",
+        stats: "+5 Cha, +3 Dex",
+        category: "Swift",
+        rarity: "Epic" },
+
+    { name: "Neon City Jacket",
+        icon: "🧥🌃",
+        description: "The city lights can't compare to your dreamy flare, this jacket lets you shine brighter and fuller today.",
+        stats: "+4 Dex, +3 Con",
+        category: "Swift",
+        rarity: "Rare" },
+
+
+    /* Reputation */
+    { name: "Serpent Ring",
+        icon: "🐍💍",
+        description: "Witches will come after you but use this ring to bite back with strength and cunning.",
+        stats: "+10 Cha, +8 Str",
+        category: "Swift",
+        rarity: "Legendary" },
+
+    { name: "Blackout Cloak",
+        icon: "🖤🥷",
+        description: "If you feel your reputation is down the drain, use this cloak to disappear from any ignorant eye.",
+        stats: "+6 Dex, +3 Con",
+        category: "Swift",
+        rarity: "Epic" },
+
+
+    /* Lover */
+    { name: "Heartglass Compass",
+        icon: "💖🧭",
+        description: "Use this compass to find your Lover, kinda useless since I'm right here. Brings good luck.",
+        stats: "+5 Wis, +4 Luck",
+        category: "Swift",
+        rarity: "Epic" },
+
+    { name: "Pastel Shield",
+        icon: "🛡️🌈",
+        description: "Use this shield to let others know they just need to calm down, they're all too loud.",
+        stats: "+5 Con, +3 Cha",
+        category: "Swift",
+        rarity: "Rare" },
+
+
+    /* Evermore */
+    { name: "Evergreen Locket",
+        icon: "🌲🔒",
+        description: "This locket may be forgotten sometimes, but use it to remember that some things last forever. Like us!",
+        stats: "+4 Con, +4 Wis",
+        category: "Swift",
+        rarity: "Rare" },
+
+    { name: "Willowbranch Staff",
+        icon: "🌿✨",
+        description: "Life may be a willow, but with this staff you have the power to bend and not break.",
+        stats: "+5 Wis, +3 Int",
+        category: "Swift",
+        rarity: "Epic" },
+
+
+    /* Midnights */
+    { name: "Midnight Clockwork Ring",
+        icon: "🕛💍",
+        description: "Wear this ring to control time itself, or at least make it feel like you have more of it.",
+        stats: "+5 Int, +4 Luck",
+        category: "Swift",
+        rarity: "Epic" },
+
+    { name: "Lavender Haze Cloak",
+        icon: "💜🌫️",
+        description: "Don't give a damn what people say, wear this cloak to hide away from negativity and judgement.",
+        stats: "+15 Dex",
+        category: "Swift",
+        rarity: "Legendary" },
+
+
+    /* The Tortured Poets Department */
+    { name: "Typewriter of Confession",
+        icon: "⌨️📝",
+        description: "You left this at my house... I used it to write some new poems tho so that's cool. You can have it back for some more writing inspiration.",
+        stats: "+6 Int, +3 Wis",
+        category: "Swift",
+        rarity: "Epic" },
+
+    { name: "Ink-Stained Overcoat",
+        icon: "🧥🖋️",
+        description: "You may be tortured, but with this coat, you can write better and have more clarity in your thoughts today.",
+        stats: "+10 Con, +10 Cha",
+        category: "Swift",
+        rarity: "Legendary" },
+
+
+
 
 
 
@@ -353,10 +516,91 @@ const items = [
         category: "Hozier", 
         rarity: "Rare" },
 
-    
+        /* Additional Hozier Items */
 
+    { name: "Bogland Rosary", 
+        icon: "📿🌫️", 
+        description: "Wear this rosary like Real People Do to gain wisdom and constitution through trying times.", 
+        stats: "+4 Wis, +3 Con", 
+        category: "Hozier", 
+        rarity: "Common" },
 
+    { name: "Giggle at a funeral", 
+        icon: "⛪", 
+        description: "It's no laughing matter, but with this item you can find humor in the darkest of times.", 
+        stats: "+6 Wis, +4 Cha", 
+        category: "Hozier", 
+        rarity: "Epic" },
 
+    { name: "Cherry Wine Chalice", 
+        icon: "🍒🍷", 
+        description: "Drink from this chalice to know that I am yours and you are mine. You can feel my love more fully today.", 
+        stats: "+3 Cha, +4 Wis", 
+        category: "Hozier", 
+        rarity: "Rare" },
+
+    { name: "Work Song Shackles", 
+        icon: "⛓️🎶", 
+        description: "These shackles may give you toothaches, but they provide you with strength and endurance through the hardest moments today.", 
+        stats: "+6 Con, +2 Str", 
+        category: "Hozier", 
+        rarity: "Rare" },
+
+    { name: "Angel of Small Death Feather", 
+        icon: "🪶🕊️", 
+        description: "Take this feather with you to fly above any troubles and have a sweeter breath today ;).", 
+        stats: "+5 Dex, +3 Wis", 
+        category: "Hozier", 
+        rarity: "Epic" },
+
+    { name: "Sedated Poppy Ring", 
+        icon: "🌺💍", 
+        description: "Any way to distract or sedate, wear this ring to gain calmness in the wake of fear and pain.", 
+        stats: "+4 Wis, +3 Int", 
+        category: "Hozier", 
+        rarity: "Common" },
+
+    { name: "Arsonist's Lullaby Torch", 
+        icon: "🔥🕯️", 
+        description: "If all you have is the fire of this torch, you can still use it to light any darkness that comes your way today.", 
+        stats: "+6 Str, -2 Wis", 
+        category: "Hozier", 
+        rarity: "Epic" },
+
+    { name: "From Eden Apple", 
+        icon: "🍎🌿", 
+        description: "Babe, Theres nothing tragic about this apple, It provides you with wisdom and clarity today.", 
+        stats: "+10 Wis, +4 Luck", 
+        category: "Hozier", 
+        rarity: "Legendary" },
+
+    { name: "Nina Cried Power Drum", 
+        icon: "🥁✊", 
+        description: "You can cry power with this drum and gain strength and greater charisma today!", 
+        stats: "+6 Cha, +3 Str", 
+        category: "Hozier", 
+        rarity: "Epic" },
+
+    { name: "Movement Anklet", 
+        icon: "🦶✨", 
+        description: "Move me baby, you can move faster today and get things done quicker!", 
+        stats: "+5 Dex, +3 Cha", 
+        category: "Hozier", 
+        rarity: "Rare" },
+
+    { name: "Shrike's Warning Bell", 
+        icon: "🔔🕊️", 
+        description: "All the goodness and wisdom is going with you now, ring this bell to ward off any bad feelings today.", 
+        stats: "+6 Wis, +2 Int", 
+        category: "Hozier", 
+        rarity: "Rare" },
+
+    { name: "Almost Sweet Harp String", 
+        icon: "🎻", 
+        description: "Play this harp to be still your foolish heart and gain wisdom and peace of mind today.", 
+        stats: "+4 Cha, +4 Wis", 
+        category: "Hozier", 
+        rarity: "Common" },
 
         // Noah Kahan
     { name: "Noah's Acoustic Amulet", 
@@ -436,33 +680,6 @@ const items = [
         category: "Kahan", 
         rarity: "Rare" },
 
-    // { name: "", 
-    //     icon: "", 
-    //     description: "", 
-    //     stats: "", 
-    //     category: "Kahan", 
-    //     rarity: "" },
-
-    // { name: "", 
-    //     icon: "", 
-    //     description: "", 
-    //     stats: "", 
-    //     category: "Kahan", 
-    //     rarity: "" },
-
-    // { name: "", 
-    //     icon: "", 
-    //     description: "", 
-    //     stats: "", 
-    //     category: "Kahan", 
-    //     rarity: "" },
-
-    // { name: "", 
-    //     icon: "", 
-    //     description: "", 
-    //     stats: "", 
-    //     category: "Kahan", 
-    //     rarity: "" },
 
 
 
@@ -621,16 +838,16 @@ const items = [
         rarity: "Epic"
         },
 
-
-
-    /* DnD */
     { name: "Hylian Hoodie of Comfort", 
         icon: "🧝‍♂️👕", 
         description: "Ganon's personal clothing brand that grants the user strength beyond their own, use it while wrestling the kids!", 
         stats: "+7 Str, +5 Con", 
-        category: "DnD", 
+        category: "Cozy Games", 
         rarity: "Rare" },
 
+
+
+    /* DnD */
     { name: "Potion of Extra Sleep", 
         icon: "🧪😴", 
         description: "A vial of restfulness, even if you get a crappy nights rest. Effects may vary, but hope is real.", 
@@ -673,10 +890,264 @@ const items = [
         category: "DnD", 
         rarity: "Rare" },
 
+    { name: "Ring of Quiet Mornings", 
+        icon: "💍🌅", 
+        description: "", 
+        stats: "+4 Wis, +2 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
 
+    { name: "Cloak of Emotional Armor", 
+        icon: "🧥🛡️", 
+        description: "", 
+        stats: "+6 Con", 
+        category: "DnD", 
+        rarity: "Epic" },
 
+    { name: "Boots of Getting Stuff Done", 
+        icon: "🥾⚡", 
+        description: "", 
+        stats: "+4 Dex, +2 Con", 
+        category: "DnD", 
+        rarity: "Uncommon" },
 
+    { name: "Amulet of Self-Trust", 
+        icon: "📿✨", 
+        description: "", 
+        stats: "+5 Wis", 
+        category: "DnD", 
+        rarity: "Rare" },
 
+    { name: "Helm of Clear Thoughts", 
+        icon: "🪖💭", 
+        description: "", 
+        stats: "+6 Wis", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Bracelet of Steady Hands", 
+        icon: "📿👐", 
+        description: "", 
+        stats: "+4 Dex", 
+        category: "DnD", 
+        rarity: "Common" },
+
+    { name: "Lantern of Gentle Guidance", 
+        icon: "🏮✨", 
+        description: "", 
+        stats: "+3 Wis, +2 Luck", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Scarf of Warm Assurance", 
+        icon: "🧣❤️", 
+        description: "", 
+        stats: "+4 Con", 
+        category: "DnD", 
+        rarity: "Common" },
+
+    { name: "Cup of Endless Tea", 
+        icon: "☕♾️", 
+        description: "", 
+        stats: "+3 Wis, +3 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Charm of Small Victories", 
+        icon: "🍀🏆", 
+        description: "", 
+        stats: "+5 Luck", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Blanket of Instant Calm", 
+        icon: "🛌✨", 
+        description: "", 
+        stats: "+6 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Mirror of Kind Reflections", 
+        icon: "🪞💖", 
+        description: "", 
+        stats: "+4 Cha, +2 Wis", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Necklace of Deep Breaths", 
+        icon: "📿🌬️", 
+        description: "", 
+        stats: "+5 Con", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Journal of Sorted Thoughts", 
+        icon: "📖🖋️", 
+        description: "", 
+        stats: "+6 Wis", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Ring of Boundary Setting", 
+        icon: "💍🚧", 
+        description: "", 
+        stats: "+5 Wis, +2 Cha", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Pendant of Quiet Confidence", 
+        icon: "🔮😌", 
+        description: "", 
+        stats: "+4 Cha", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Socks of Perfect Comfort", 
+        icon: "🧦✨", 
+        description: "", 
+        stats: "+3 Con", 
+        category: "DnD", 
+        rarity: "Common" },
+
+    { name: "Belt of Emotional Stability", 
+        icon: "👖🛡️", 
+        description: "", 
+        stats: "+6 Con, +2 Wis", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Stone of Grounding", 
+        icon: "🪨🌍", 
+        description: "", 
+        stats: "+4 Con, +2 Wis", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Feather of Light Days", 
+        icon: "🪶☀️", 
+        description: "", 
+        stats: "+5 Luck", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Charm of Saying No", 
+        icon: "❌✨", 
+        description: "", 
+        stats: "+6 Wis", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Candle of Evening Peace", 
+        icon: "🕯️🌙", 
+        description: "", 
+        stats: "+3 Wis, +3 Con", 
+        category: "DnD", 
+        rarity: "Common" },
+
+    { name: "Gloves of Gentle Strength", 
+        icon: "🧤💪", 
+        description: "", 
+        stats: "+4 Str, +2 Con", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Key of Safe Returns", 
+        icon: "🗝️🏠", 
+        description: "", 
+        stats: "+4 Luck, +2 Wis", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Token of Being Enough", 
+        icon: "🪙💗", 
+        description: "", 
+        stats: "+6 Wis", 
+        category: "DnD", 
+        rarity: "Legendary" },
+
+    { name: "Ribbon of Shared Burdens", 
+        icon: "🎀🤝", 
+        description: "", 
+        stats: "+4 Love, +2 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Bookmark of Second Chances", 
+        icon: "🔖✨", 
+        description: "", 
+        stats: "+5 Luck", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Compass of Inner North", 
+        icon: "🧭💠", 
+        description: "", 
+        stats: "+6 Wis", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Bracelet of Rest Days", 
+        icon: "📿🛏️", 
+        description: "", 
+        stats: "+5 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Music Box of Familiar Songs", 
+        icon: "🎶📦", 
+        description: "", 
+        stats: "+4 Wis, +2 Cha", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Coin of Good Timing", 
+        icon: "🪙⏰", 
+        description: "", 
+        stats: "+6 Luck", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Crown of Quiet Authority", 
+        icon: "👑🕊️", 
+        description: "", 
+        stats: "+6 Cha, +2 Wis", 
+        category: "DnD", 
+        rarity: "Legendary" },
+
+    { name: "Shawl of Soft Landings", 
+        icon: "🧣🪶", 
+        description: "", 
+        stats: "+4 Con, +2 Luck", 
+        category: "DnD", 
+        rarity: "Uncommon" },
+
+    { name: "Talisman of Tomorrow", 
+        icon: "🔮🌅", 
+        description: "", 
+        stats: "+5 Wis, +3 Luck", 
+        category: "DnD", 
+        rarity: "Legendary" },
+
+    { name: "Badge of Earned Pride", 
+        icon: "🎖️💪", 
+        description: "", 
+        stats: "+4 Cha, +2 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
+
+    { name: "Thread of Patience", 
+        icon: "🧵⏳", 
+        description: "", 
+        stats: "+6 Wis", 
+        category: "DnD", 
+        rarity: "Epic" },
+
+    { name: "Pocket Clock of Slow Time", 
+        icon: "⌚🐢", 
+        description: "", 
+        stats: "+5 Con", 
+        category: "DnD", 
+        rarity: "Rare" },
 
 
 
@@ -799,68 +1270,68 @@ const items = [
         rarity: "Epic"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Smile",
+        icon: "👧",
+        description: "Her smile could cure the darkest heart, take it with you to be a light to the world today.",
+        stats: "+5 Cha, +3 Con",
         category: "Kids",
-        rarity: ""
+        rarity: "Common"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Dance Moves",
+        icon: "💃",
+        description: "Ava's got moves for days! Use that mental image to brighten up your day today my love.",
+        stats: "+6 Dex, +2 Cha",
         category: "Kids",
-        rarity: ""
+        rarity: "Rare"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Imagination",
+        icon: "✨🙌",
+        description: "Ava can play with anything. Allow her imagination to guide your creativity today!",
+        stats: "+8 Int, +2 Wis",
         category: "Kids",
-        rarity: ""
+        rarity: "Epic"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Energy",
+        icon: "🔋⚡",
+        description: "Better than 100 monsters, might make you a lil grumpy later tho.",
+        stats: "+5 Dex, +5 Con",
         category: "Kids",
-        rarity: ""
+        rarity: "Common"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Laugh",
+        icon: "😂",
+        description: "Remind yourself this laugh is the reason to life for and to build a strong future for. Ava loves and laughs like no other.",
+        stats: "+20 Luck, +10 Love",
         category: "Kids",
-        rarity: ""
+        rarity: "Legendary"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Curiosity",
+        icon: "🤯",
+        description: "Use Ava's curiosity to help you study and learn better today!",
+        stats: "+7 Int, +3 Wis",
         category: "Kids",
-        rarity: ""
+        rarity: "Epic"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Kindness",
+        icon: "🫶",
+        description: "Don't forget, everyone deserve to be loved and treated with the kindness of an Ava... As long as she's not hangry.",
+        stats: "+10 Love, +2 Cha",
         category: "Kids",
-        rarity: ""
+        rarity: "Legendary"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
+    { name: "Ava's Hug",
+        icon: "🫂🥹",
+        description: "She squeezes you with all the love that little body can manage! Take that love with you where ere you go.",
+        stats: "+5 Con, +5 Love",
         category: "Kids",
-        rarity: ""
+        rarity: "Epic"
     },
 
 
@@ -875,7 +1346,7 @@ const items = [
     },
 
     { name: "Ben's Hug",
-        icon: "",
+        icon: "🤗",
         description: "Warmer than a thousand suns, Tighter than the largest snake. Love me for goodness sake.",
         stats: "+10 Love",
         category: "Ben",
@@ -883,7 +1354,7 @@ const items = [
     },
 
     { name: "Ben's Giant Massive Dictionary",
-        icon: "🤗",
+        icon: "📙👀",
         description: "Only smart people read from this Dict, Open it offend and suck up all the creamy knowledge within.",
         stats: "+15 Int",
         category: "Ben",
