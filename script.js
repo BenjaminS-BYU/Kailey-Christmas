@@ -727,12 +727,140 @@ const items = [
         rarity: "Common"
     },
 
+    { name: "Oliver's Energy",
+        icon: "⚡",
+        description: "Sometimes hes crazy, sometimes hes chill... Never an in-between. Y'know what, I admire it.",
+        stats: "+5 Dex, +3 Con",
+        category: "Kids",
+        rarity: "Rare"
+    },
+
+    { name: "Coloring Book of Creativity",
+        icon: "💡",
+        description: "Use this coloring book to gain ideas for creativity and artistic prowess.",
+        stats: "+6 Int, +4 Cha",
+        category: "Kids",
+        rarity: "Epic"
+    },
+
+    { name: "Math Whiz Ring",
+        icon: "🔢",
+        description: "No amount of math will take you down with this today!",
+        stats: "+8 Int, +2 Wis",
+        category: "Kids",
+        rarity: "Epic"
+    },
+
+    { name: "Ollie's Heart",
+        icon: "❤︎",
+        description: "No one loves more fully and quietly as Ollie. Take this little bear's heart with ya.",
+        stats: "+10 Love, +2 Cha",
+        category: "Kids",
+        rarity: "Legendary"
+    },
+
+    { name: "Oliver's Persistence",
+        icon: "😫",
+        description: "You'll never get a no for an answer if you keep asking! Take Oliver's persistence with you to never give up on your dreams!",
+        stats: "+7 Con, -2 Cha",
+        category: "Kids",
+        rarity: "Rare"
+    },
+
+    { name: "Ollie's Learning",
+        icon: "🎓",
+        description: "He learns so fast, Our big boy is so amazing. Take his learning with you to soak up knowledge quickly!",
+        stats: "+8 Int, +2 Wis",
+        category: "Kids",
+        rarity: "Epic"
+    },
+
+    { name: "Oliver's Focus",
+        icon: "🔎",
+        description: "Dude's focus is unmatched, take this energy with you as you study.",
+        stats: "+7 Int, + 2 Wis",
+        category: "Kids",
+        rarity: "Epic"
+    },
+
+    { name: "Oliver's Crazy",
+        icon: "🤪",
+        description: "Sometimes its okay to be a crazy little bear.",
+        stats: "+5 Cha, -3 Int",
+        category: "Kids",
+        rarity: "Common"
+    },
+
     { name: "Ava's Charisma",
         icon: "👧",
         description: "Ava is wild and excitable, if a bit too much sometimes 😂, take her charisma with you and be confident without fear!",
         stats: "+7 Cha, -1 Int",
         category: "Kids",
-        rarity: "Common"
+        rarity: "Epic"
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "Kids",
+        rarity: ""
     },
 
 
