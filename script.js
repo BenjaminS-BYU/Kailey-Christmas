@@ -925,229 +925,26 @@ const items = [
         category: "DnD", 
         rarity: "Epic" },
 
-    // { name: "Bracelet of Steady Hands", 
-    //     icon: "📿👐", 
-    //     description: "", 
-    //     stats: "+4 Dex", 
-    //     category: "DnD", 
-    //     rarity: "Common" },
+    { name: "Bracelet of Steady Hands", 
+        icon: "📿👐", 
+        description: "This bracelet allows your hand to work tirelessly and steady.", 
+        stats: "+4 Dex", 
+        category: "DnD", 
+        rarity: "Common" },
 
-    // { name: "Lantern of Gentle Guidance", 
-    //     icon: "🏮✨", 
-    //     description: "", 
-    //     stats: "+3 Wis, +2 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
+    { name: "Lantern of Gentle Guidance", 
+        icon: "🏮✨", 
+        description: "This lantern guides you towards the right choices today, I trust you.", 
+        stats: "+3 Wis, +2 Luck", 
+        category: "DnD", 
+        rarity: "Common" },
 
-    // { name: "Scarf of Warm Assurance", 
-    //     icon: "🧣❤️", 
-    //     description: "", 
-    //     stats: "+4 Con", 
-    //     category: "DnD", 
-    //     rarity: "Common" },
-
-    // { name: "Cup of Endless Tea", 
-    //     icon: "☕♾️", 
-    //     description: "", 
-    //     stats: "+3 Wis, +3 Con", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Charm of Small Victories", 
-    //     icon: "🍀🏆", 
-    //     description: "", 
-    //     stats: "+5 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Blanket of Instant Calm", 
-    //     icon: "🛌✨", 
-    //     description: "", 
-    //     stats: "+6 Con", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Mirror of Kind Reflections", 
-    //     icon: "🪞💖", 
-    //     description: "", 
-    //     stats: "+4 Cha, +2 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Necklace of Deep Breaths", 
-    //     icon: "📿🌬️", 
-    //     description: "", 
-    //     stats: "+5 Con", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Journal of Sorted Thoughts", 
-    //     icon: "📖🖋️", 
-    //     description: "", 
-    //     stats: "+6 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Ring of Boundary Setting", 
-    //     icon: "💍🚧", 
-    //     description: "", 
-    //     stats: "+5 Wis, +2 Cha", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Pendant of Quiet Confidence", 
-    //     icon: "🔮😌", 
-    //     description: "", 
-    //     stats: "+4 Cha", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Socks of Perfect Comfort", 
-    //     icon: "🧦✨", 
-    //     description: "", 
-    //     stats: "+3 Con", 
-    //     category: "DnD", 
-    //     rarity: "Common" },
-
-    // { name: "Belt of Emotional Stability", 
-    //     icon: "👖🛡️", 
-    //     description: "", 
-    //     stats: "+6 Con, +2 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Stone of Grounding", 
-    //     icon: "🪨🌍", 
-    //     description: "", 
-    //     stats: "+4 Con, +2 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Feather of Light Days", 
-    //     icon: "🪶☀️", 
-    //     description: "", 
-    //     stats: "+5 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Charm of Saying No", 
-    //     icon: "❌✨", 
-    //     description: "", 
-    //     stats: "+6 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Candle of Evening Peace", 
-    //     icon: "🕯️🌙", 
-    //     description: "", 
-    //     stats: "+3 Wis, +3 Con", 
-    //     category: "DnD", 
-    //     rarity: "Common" },
-
-    // { name: "Gloves of Gentle Strength", 
-    //     icon: "🧤💪", 
-    //     description: "", 
-    //     stats: "+4 Str, +2 Con", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Key of Safe Returns", 
-    //     icon: "🗝️🏠", 
-    //     description: "", 
-    //     stats: "+4 Luck, +2 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Token of Being Enough", 
-    //     icon: "🪙💗", 
-    //     description: "", 
-    //     stats: "+6 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Legendary" },
-
-    // { name: "Ribbon of Shared Burdens", 
-    //     icon: "🎀🤝", 
-    //     description: "", 
-    //     stats: "+4 Love, +2 Con", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Bookmark of Second Chances", 
-    //     icon: "🔖✨", 
-    //     description: "", 
-    //     stats: "+5 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Compass of Inner North", 
-    //     icon: "🧭💠", 
-    //     description: "", 
-    //     stats: "+6 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Bracelet of Rest Days", 
-    //     icon: "📿🛏️", 
-    //     description: "", 
-    //     stats: "+5 Con", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Music Box of Familiar Songs", 
-    //     icon: "🎶📦", 
-    //     description: "", 
-    //     stats: "+4 Wis, +2 Cha", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Coin of Good Timing", 
-    //     icon: "🪙⏰", 
-    //     description: "", 
-    //     stats: "+6 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Crown of Quiet Authority", 
-    //     icon: "👑🕊️", 
-    //     description: "", 
-    //     stats: "+6 Cha, +2 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Legendary" },
-
-    // { name: "Shawl of Soft Landings", 
-    //     icon: "🧣🪶", 
-    //     description: "", 
-    //     stats: "+4 Con, +2 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Uncommon" },
-
-    // { name: "Talisman of Tomorrow", 
-    //     icon: "🔮🌅", 
-    //     description: "", 
-    //     stats: "+5 Wis, +3 Luck", 
-    //     category: "DnD", 
-    //     rarity: "Legendary" },
-
-    // { name: "Badge of Earned Pride", 
-    //     icon: "🎖️💪", 
-    //     description: "", 
-    //     stats: "+4 Cha, +2 Con", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
-
-    // { name: "Thread of Patience", 
-    //     icon: "🧵⏳", 
-    //     description: "", 
-    //     stats: "+6 Wis", 
-    //     category: "DnD", 
-    //     rarity: "Epic" },
-
-    // { name: "Pocket Clock of Slow Time", 
-    //     icon: "⌚🐢", 
-    //     description: "", 
-    //     stats: "+5 Con", 
-    //     category: "DnD", 
-    //     rarity: "Rare" },
+    { name: "Scarf of Warm Assurance", 
+        icon: "🧣❤️", 
+        description: "No amount of cold will keep you down today. Your heart will stay warm with love and care.", 
+        stats: "+4 Con", 
+        category: "DnD", 
+        rarity: "Common" },
 
 
 
@@ -1471,6 +1268,231 @@ const items = [
         stats: "+5 Cha, +5 Int",
         category: "Ben",
         rarity: "Rare"
+    },
+
+    // LDS
+    { name: "Script of Ultimate Answers",
+        icon: "🙏",
+        description: "James 1:5-7 Use this script to answer any question you want. Grants you wisdom and intelligence.",
+        stats: "+5 Wis, +4 Int",
+        category: "LDS",
+        rarity: "Common"
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
+    },
+
+    { name: "",
+        icon: "",
+        description: "",
+        stats: "",
+        category: "LDS",
+        rarity: ""
     },
 ];
 
