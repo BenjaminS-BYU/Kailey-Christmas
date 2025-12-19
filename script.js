@@ -1279,221 +1279,221 @@ const items = [
         rarity: "Common"
     },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 
-    { name: "",
-        icon: "",
-        description: "",
-        stats: "",
-        category: "LDS",
-        rarity: ""
-    },
+    // { name: "",
+    //     icon: "",
+    //     description: "",
+    //     stats: "",
+    //     category: "LDS",
+    //     rarity: ""
+    // },
 ];
 
 /* Rarity classes mapping */
