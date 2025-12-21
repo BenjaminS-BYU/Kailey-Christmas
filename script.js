@@ -1232,7 +1232,7 @@ const items = [
 
     { name: "Ben's Muskles",
         icon: "💪",
-        description: "You strgth, ya?",
+        description: "You strgth, ja?",
         stats: "-2 Int, +10 Str",
         category: "Ben",
         rarity: "Rare"
